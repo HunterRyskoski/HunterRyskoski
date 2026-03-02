@@ -18,10 +18,10 @@ I build measurable IT systems that improve visibility, reliability, and operatio
 
 ## Featured Projects
 
-- **IT-Performance-Dashboard-Framework**  
+- **[IT-Performance-Dashboard-Framework](https://github.com/HunterRyskoski/IT-Performance-Dashboard-Framework)**
   Structured Power BI framework for tracking IT service metrics, trends, and technician performance.
 
-- **Professional Portfolio**  
+- **[Professional Portfolio](https://github.com/HunterRyskoski/professional-portfolio)**
   Centralized showcase of technical projects and documentation.
 
 ---
