@@ -1,25 +1,26 @@
 # Hunter Ryskoski
 
-Hunter Ryskoski is a Systems Administrator based in Wisconsin focused on Microsoft Intune, endpoint management, Apple device administration, Power BI reporting, and IT operations. This GitHub profile highlights technical projects, portfolio work, documentation, and practical frameworks.
+Systems Administrator based in Wisconsin with experience in Microsoft Intune, endpoint management, Apple device administration, Power BI reporting, and IT operations. This GitHub profile showcases technical projects, portfolio work, documentation, and practical frameworks related to enterprise IT support and systems administration.
+
 ---
 
 ## Core Focus Areas
 
-- Microsoft Intune (Win32 deployments, device compliance, MDM troubleshooting)
-- Apple Business Manager & iOS device lifecycle management
-- Power BI for IT performance reporting
-- Endpoint lifecycle automation
-- Enterprise IT operations optimization
+- Microsoft Intune administration, Win32 app deployments, compliance policies, and device troubleshooting
+- Apple Business Manager, Intune enrollment, and iOS device lifecycle management
+- Power BI reporting for IT operations, service metrics, and performance tracking
+- Endpoint lifecycle management and process standardization
+- IT operations support, documentation, and workflow improvement
 
 ---
 
 ## Featured Projects
 
-- **[IT-Performance-Dashboard-Framework](https://github.com/HunterRyskoski/IT-Performance-Dashboard-Framework)**
-  Structured Power BI framework for tracking IT service metrics, trends, and technician performance.
+### [IT Performance Dashboard Framework](https://github.com/HunterRyskoski/IT-Performance-Dashboard-Framework)
+Structured Power BI framework for tracking IT service metrics, technician performance, and operational trends.
 
-- **[Professional Portfolio](https://github.com/HunterRyskoski/professional-portfolio)**
-  Centralized showcase of technical projects and documentation.
+### [Professional Portfolio](https://github.com/HunterRyskoski/professional-portfolio)
+Centralized portfolio of technical projects, documentation, and professional work.
 
 ---
 
@@ -27,27 +28,12 @@ Hunter Ryskoski is a Systems Administrator based in Wisconsin focused on Microso
 
 - [How to Recover an Apple iPad (10th Generation) Using a Windows PC](LINK_TO_DEVTO_ARTICLE)
 
-More technical write-ups focused on enterprise IT and endpoint management coming soon.
+Additional write-ups focused on endpoint management, enterprise IT support, and systems administration will be added over time.
 
 ---
 
 ## Connect
 
-Website: https://hunterryskoski.com  
-LinkedIn: https://www.linkedin.com/in/hunter-ryskoski-772a81170/  
-Medium: https://medium.com/@hunterryskoski  
-
-<!--
-**HunterRyskoski/HunterRyskoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Website: https://hunterryskoski.com
+- LinkedIn: https://www.linkedin.com/in/hunter-ryskoski-772a81170/
+- Medium: https://medium.com/@hunterryskoski
