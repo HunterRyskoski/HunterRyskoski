@@ -1,7 +1,6 @@
 # Hunter Ryskoski
 
-Hunter Ryskoski is a Systems Administrator focused on Microsoft Intune, endpoint management, Apple device administration, Power BI reporting, and IT operations optimization. This GitHub profile serves as a technical portfolio highlighting projects, documentation, and practical IT frameworks.
-
+Hunter Ryskoski is a Systems Administrator based in Wisconsin focused on Microsoft Intune, endpoint management, Apple device administration, Power BI reporting, and IT operations. This GitHub profile highlights technical projects, portfolio work, documentation, and practical frameworks.
 ---
 
 ## Core Focus Areas
